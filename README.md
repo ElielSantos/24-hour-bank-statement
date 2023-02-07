@@ -1,2 +1,2 @@
-# 24-hour-bank-statement
+bank-statement
 24 Hour Bank Statement Program
